@@ -1,4 +1,0 @@
-[ 2024-06-16 16:07:49,454 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
-[ 2024-06-16 16:07:49,455 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
-[ 2024-06-16 16:07:50,120 ] Using spritesheet cache size of 910
-[ 2024-06-16 16:07:55,227 ] Asset loading complete
