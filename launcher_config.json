@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Jardimderook/rook-update/raw/main/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Jardimderook/update/raw/main/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
