@@ -1,19 +1,13 @@
 {
 	"clientVersion": "13.32.14522",
-	"launcherVersion": "1.0",
+	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
 			"name": "assets"
 		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "bin"
-		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Jardimderook/update/raw/main/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Jardimderook/update/releases/download/update/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
