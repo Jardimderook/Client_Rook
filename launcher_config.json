@@ -1,5 +1,5 @@
 {
-	"clientVersion": "cliente-1.2",
+	"clientVersion": "cliente-1.3",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -17,6 +17,7 @@
 	"newClientUrl" : "https://github.com/Jardimderook/Client_Rook/releases/download/Dungeongaard/Client.zip",
 	"clientExecutable": "client.exe"
 }
+
 
 
 
